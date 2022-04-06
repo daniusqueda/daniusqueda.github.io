@@ -1,0 +1,32 @@
+{
+  "name": "portfolio-carlitos",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.0.1",
+    "@react-three/fiber": "^8.0.7",
+    "@reduxjs/toolkit": "^1.8.0",
+    "framer-motion": "^6.2.8",
+    "moment": "^2.29.1",
+    "react": "^18.0.0",
+    "react-calendar": "^3.7.0",
+    "react-dom": "^18.0.0",
+    "react-hot-toast": "^2.2.0",
+    "react-icons": "^4.3.1",
+    "react-query": "^3.34.16",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^6.2.2",
+    "styled-components": "^5.3.5",
+    "swiper": "7.2.0",
+    "three": "^0.139.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.8.0"
+  }
+}
